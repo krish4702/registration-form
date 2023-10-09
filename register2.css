@@ -1,0 +1,97 @@
+*{
+    margin:0%;
+    padding:0%;
+    box-sizing: border-box;
+}
+#main{
+    width: 400px;
+    margin: 100px auto 0px auto;
+}
+h1{
+text-align: center;
+padding:20px;
+}
+
+h3{
+    margin-top: 20px;
+    padding-bottom: 15px;
+text-align: center;
+font-size: 16px;
+}
+
+#box{
+    text-align: justify;
+    box-sizing: border-box ;
+    width: 500px;
+    margin: 40px 40px 50px 50px;
+    padding: 10px 85px 30px 95px;
+    border-radius: 5px;
+    overflow: hidden;
+    background-color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 18px;
+    color:black;
+
+}
+
+
+label{
+    margin-top:10%;
+    font-family: sans-serif;
+    text-transform: capitalize;
+    font-weight: bold;
+}
+
+input#user{
+    width:300px;
+    padding: 10px;
+    margin-bottom:10px ;
+    text-transform: capitalize;
+    background-color: rgb(176, 175, 175);
+    color: black;
+    font-weight: bold;
+    border: none;
+}
+
+input#email{
+    width:300px;
+margin-bottom: 10px;
+    text-transform: capitalize;
+    padding: 10px;
+    background-color: rgb(176, 175, 175);
+    color: black;
+    font-weight: bold;
+    border: none;
+}
+input#pass{
+    width:300px;
+    padding: 10px;
+    margin-bottom: 10px;
+    text-transform: capitalize;
+    background-color: rgb(176, 175, 175);
+    color: black;
+    font-weight: bold;
+    box-shadow: 10px;
+    border: none;
+}
+
+input#button{
+    width:300px;
+    padding: 10px;
+    text-transform: capitalize;
+    margin-top: 12px;
+    color: rgb(240, 240, 242);
+    background-color: rgb(189, 13, 189);
+    border: none;
+}
+.inline{
+    margin-top: 10px;
+    display: block;
+    text-align: center;
+    padding: 20px;
+}
+
+#box{
+    border: 3px solid rgb(151, 149, 149);
+
+}
